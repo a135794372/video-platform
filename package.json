@@ -2,6 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://a135794372.github.io/video-platform",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
